@@ -1,7 +1,9 @@
 <template>
   <div id="app">
+
     <div>哈哈哈哈,我是杰瑞呀!</div>
     <div>我是汤姆呀!!!哈哈</div>
+
     <div id="nav">
 
       <router-link to="/">Home</router-link> |
